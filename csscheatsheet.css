@@ -1,0 +1,43 @@
+h1
+{
+  font-size: 50px;
+  text-decoration: underline;
+  text-decoration-color: #bf80ff;
+  background-color: #000000;
+  font-style: italic;
+  color:  #fff;
+  text-align: center;
+}
+
+table
+{
+  justify-content: center;
+}
+
+table th
+{
+
+  text-align: center;
+  background-color: gray;
+  color: black;
+  font-size: 30px;
+}
+
+table td
+{
+  border: 1px solid black;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-align: center;
+  width: 50%;
+}
+
+table tr:nth-child(odd) td
+{
+  background-color: gray;
+}
+
+table td:nth-child(odd) tr
+{
+  background-color: blue;
+}

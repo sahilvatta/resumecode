@@ -1,0 +1,122 @@
+body
+{
+  margin: 0;
+  padding:0;
+
+}
+
+
+.main
+{
+  height: 1200px;
+  width: 800px;
+  background-color: #fff;
+  box-shadow: 5px 7px 15px 5px;
+  margin: 20px auto;
+}
+
+.section-1
+{
+  background-color: #142F43;
+  text-align: center;
+  padding: 20px;
+}
+
+.profile
+{
+    border-radius: 50%;
+}
+
+.p1
+{
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0px;
+}
+.p1 span
+{
+  font-weight: 80;
+  color: #fff;.
+
+}
+
+.p2
+{
+  font-size: 20px;
+  color: #fff;
+  margin:0px;
+  top: 10px;
+}
+
+.section-2
+{
+  width: 35%;
+  float: left;
+}
+
+
+.line
+{
+  border-left: 1px solid black;
+  height: 910px;
+  width: 60%;
+  margin-top: 10px;
+  margin-left: 40%;
+}
+
+.box-2
+{
+  padding:10px;
+
+}
+
+
+.main-heading
+{
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: grey;
+}
+.design
+{
+  margin-bottom: 5px;
+  font-style: oblique;
+  text-transform: capitalize;
+}
+.skills
+{
+  margin-left: 20px;
+  margin-bottom: 5px;
+
+}
+h4
+{
+  display: inline-block;
+
+}
+.block
+{
+  display: inline-block;
+  font-style: oblique;
+}
+.inline
+{
+margin-left: 25px;
+text-transform: capitalize;
+}
+
+h2
+{
+  font-weight:lighter;
+  font-size: 30px;
+  margin:10px;
+  padding:5px;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: grey;
+}
